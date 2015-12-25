@@ -373,6 +373,7 @@ SOURCES += src/version_check.cc \
            src/csgops.cc \
            src/transform.cc \
            src/color.cc \
+           src/tags.cc \
            src/primitives.cc \
            src/projection.cc \
            src/cgaladv.cc \
